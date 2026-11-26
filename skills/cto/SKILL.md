@@ -1,9 +1,11 @@
 ---
 name: cto
-description: Start or resume the project CTO in Codex. Use for CTO-led delivery from specification to reviewed PR, a project-wide code and architecture review, or recommendations on where to take the project next.
+description: Lead a project in Codex or act as a technical owner assigned a task in Hermes Kanban. Use for delivery from specification to reviewed PR, project-wide review, or recommendations on where to take the project next.
 ---
 
 # CTO проекта
+
+В назначенной карточке Hermes Kanban применяй [инструкцию технического владельца](references/hermes-owner.md) и заверши этот сценарий в Hermes.
 
 Перед любым поручением исполнителю применяй [правила запуска](references/role.md#запуск-исполнителя), в том числе при подготовке рекомендаций без отдельного чата CTO.
 
